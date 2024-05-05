@@ -3,4 +3,4 @@ apt install osmosis
 /home/eric/.openstreetmap/osmosis/plugins
 
 
-osmosis --rb file=alsace-latest.osm.pbf --mapfile-writer file=/tmp/berlin.map
+osmosis --rb file=alsace-latest.osm.pbf --mapfile-writer file=/tmp/alsace.map
