@@ -1,6 +1,7 @@
 apt install osmosis
 
-/home/eric/.openstreetmap/osmosis/plugins
+/home/eric/.openstreetmap/osmosis/plugins/mapsforge-map-writer-0.20.0-jar-with-dependencies.jar
 
+c'est en V3
 
 osmosis --rb file=alsace-latest.osm.pbf --mapfile-writer file=/tmp/alsace.map
